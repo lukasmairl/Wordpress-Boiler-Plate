@@ -9,7 +9,7 @@
  *
  * @package WordPress
  * @subpackage Boilerplate
- * @since Boilerplate Ten 1.0
+ * @since Boilerplate 0.1
  */
 
 get_header(); ?>
