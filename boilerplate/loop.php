@@ -14,8 +14,8 @@
  * <code>get_template_part( 'loop', 'index' );</code>
  *
  * @package WordPress
- * @subpackage Twenty_Ten
- * @since Twenty Ten 1.0
+ * @subpackage Boilerplate
+ * @since Boilerplate 0.1
  */
 ?>
 
