@@ -9,7 +9,7 @@
  *
  * @package WordPress
  * @subpackage Boilerplate
- * @since Boilerplate 1.0
+ * @since Boilerplate 0.1
  */
 ?>
 
